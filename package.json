@@ -1,0 +1,17 @@
+{
+  "name": "metaverse-ts-practice-exercises",
+  "version": "1.0.0",
+  "description": "Metaverse-TS-Practice_Exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^8.0.0"
+  }
+}
